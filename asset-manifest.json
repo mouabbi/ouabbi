@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/ouabbi/static/css/main.441e97ce.css",
+    "main.js": "/ouabbi/static/js/main.814b040a.js",
+    "static/media/p_thumb.png": "/ouabbi/static/media/p_thumb.b2eda72e0ccff008599a.png",
+    "static/media/p_thumbn.png": "/ouabbi/static/media/p_thumbn.7111bae6f4818cead52d.png",
+    "static/media/user2.png": "/ouabbi/static/media/user2.58e8d5bf5f8f039cb1ad.png",
+    "static/media/p_logo.png": "/ouabbi/static/media/p_logo.e3af7218ade7297462e5.png",
+    "static/media/thumbnail.jpg": "/ouabbi/static/media/thumbnail.817136d2c0676c977702.jpg",
+    "static/media/problem.jpg": "/ouabbi/static/media/problem.b145921fdb1b96eb3613.jpg",
+    "static/media/sql.jpg": "/ouabbi/static/media/sql.14680491bd25f39e877f.jpg",
+    "static/media/dataana.jpg": "/ouabbi/static/media/dataana.29b42e0982dd0dd3edf9.jpg",
+    "static/media/tensorflow-icon-1911x2048-1m2s54vn.png": "/ouabbi/static/media/tensorflow-icon-1911x2048-1m2s54vn.8820208b2a3b5433ea9f.png",
+    "static/media/wordpress.jpg": "/ouabbi/static/media/wordpress.c975bdcacc616fdf1404.jpg",
+    "static/media/1280px-Scikit_learn_logo_small.svg.png": "/ouabbi/static/media/1280px-Scikit_learn_logo_small.svg.e323786f2489aa601b90.png",
+    "static/media/unsupervised-learning-3901037-3232318.png": "/ouabbi/static/media/unsupervised-learning-3901037-3232318.d728846bab7d20b2a7a3.png",
+    "static/media/feature.png": "/ouabbi/static/media/feature.684648b4d1aa5c2e32ad.png",
+    "static/media/thumbn.png": "/ouabbi/static/media/thumbn.2fd0b584674cb4646d45.png",
+    "static/media/يم.png": "/ouabbi/static/media/يم.516b7799372ebe56cbb1.png",
+    "static/media/mevo.png": "/ouabbi/static/media/mevo.f42c92780b54b0f194fe.png",
+    "static/media/superlearn.png": "/ouabbi/static/media/superlearn.b7324bd58487a7e5aaec.png",
+    "static/media/logo-removebg-preview.png": "/ouabbi/static/media/logo-removebg-preview.b6d266490e4fbea84c8b.png",
+    "static/media/preproc.png": "/ouabbi/static/media/preproc.762af612e84eb717ffd8.png",
+    "static/media/p_logo-removebg-preview.png": "/ouabbi/static/media/p_logo-removebg-preview.bc94c409172d26d3233f.png",
+    "static/media/computer-vision-512.webp": "/ouabbi/static/media/computer-vision-512.8da85b2bac2349f7f46d.webp",
+    "static/media/mf-avatar.svg": "/ouabbi/static/media/mf-avatar.78139f448c4b6014e62ea236866d4c01.svg",
+    "static/media/logo.png": "/ouabbi/static/media/logo.20a28b9d49bb69bea9ec.png",
+    "static/media/usms.png": "/ouabbi/static/media/usms.f1ee169becb910d2a45e.png",
+    "static/media/1200px-Keras_logo.svg.png": "/ouabbi/static/media/1200px-Keras_logo.svg.26c2b48d9b03d275794f.png",
+    "static/media/fcc_secondary_small.svg": "/ouabbi/static/media/fcc_secondary_small.f4927ea8cd8fb7a3419115db897e80e0.svg",
+    "static/media/yolo.svg": "/ouabbi/static/media/yolo.9da6d049e0f1065612153bd65c23311f.svg",
+    "index.html": "/ouabbi/index.html",
+    "main.441e97ce.css.map": "/ouabbi/static/css/main.441e97ce.css.map",
+    "main.814b040a.js.map": "/ouabbi/static/js/main.814b040a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.441e97ce.css",
+    "static/js/main.814b040a.js"
+  ]
+}
