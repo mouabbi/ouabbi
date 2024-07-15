@@ -1,6 +1,6 @@
 import React, { useRef, useEffect } from 'react';
 import { FaFileDownload } from 'react-icons/fa';
-import image from '../../images/user2.png';
+import image from '../../images/user.jpg;
 
 const AboutMe = () => {
     const canvasRef = useRef(null);
