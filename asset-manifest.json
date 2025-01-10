@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/ouabbi/static/css/main.441e97ce.css",
-    "main.js": "/ouabbi/static/js/main.0a09a509.js",
+    "main.js": "/ouabbi/static/js/main.83ff04c9.js",
     "static/media/p_thumb.png": "/ouabbi/static/media/p_thumb.b2eda72e0ccff008599a.png",
     "static/media/p_thumbn.png": "/ouabbi/static/media/p_thumbn.7111bae6f4818cead52d.png",
-    "static/media/user2.png": "/ouabbi/static/media/user2.58e8d5bf5f8f039cb1ad.png",
     "static/media/p_logo.png": "/ouabbi/static/media/p_logo.e3af7218ade7297462e5.png",
     "static/media/thumbnail.jpg": "/ouabbi/static/media/thumbnail.817136d2c0676c977702.jpg",
     "static/media/problem.jpg": "/ouabbi/static/media/problem.b145921fdb1b96eb3613.jpg",
     "static/media/sql.jpg": "/ouabbi/static/media/sql.14680491bd25f39e877f.jpg",
+    "static/media/user.jpg": "/ouabbi/static/media/user.80ae465d62e8615ea274.jpg",
     "static/media/dataana.jpg": "/ouabbi/static/media/dataana.29b42e0982dd0dd3edf9.jpg",
     "static/media/tensorflow-icon-1911x2048-1m2s54vn.png": "/ouabbi/static/media/tensorflow-icon-1911x2048-1m2s54vn.8820208b2a3b5433ea9f.png",
     "static/media/wordpress.jpg": "/ouabbi/static/media/wordpress.c975bdcacc616fdf1404.jpg",
@@ -31,10 +31,10 @@
     "static/media/yolo.svg": "/ouabbi/static/media/yolo.9da6d049e0f1065612153bd65c23311f.svg",
     "index.html": "/ouabbi/index.html",
     "main.441e97ce.css.map": "/ouabbi/static/css/main.441e97ce.css.map",
-    "main.0a09a509.js.map": "/ouabbi/static/js/main.0a09a509.js.map"
+    "main.83ff04c9.js.map": "/ouabbi/static/js/main.83ff04c9.js.map"
   },
   "entrypoints": [
     "static/css/main.441e97ce.css",
-    "static/js/main.0a09a509.js"
+    "static/js/main.83ff04c9.js"
   ]
 }
